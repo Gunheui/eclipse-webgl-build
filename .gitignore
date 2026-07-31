@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Unity 빌드 부산물 (배포에 불필요)
+*_BurstDebugInformation_DoNotShip/
+*_BackUpThisFolder_ButDontShipItWithYourGame/
+
+# 에디터 / IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# 로그
+*.log
